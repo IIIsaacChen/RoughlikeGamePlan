@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f909275f-b15d-4b64-b922-31aa9b41243c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "boss2Bonfires (11)": {
+      "ver": "1.0.3",
+      "uuid": "a77f29a1-aba6-45fb-a91a-7f18bf4e9c76",
+      "rawTextureUuid": "f909275f-b15d-4b64-b922-31aa9b41243c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 0,
+      "width": 76,
+      "height": 85,
+      "rawWidth": 85,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

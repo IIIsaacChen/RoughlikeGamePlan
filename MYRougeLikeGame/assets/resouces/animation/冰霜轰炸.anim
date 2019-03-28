@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "冰霜轰炸",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1f07882f-8bbb-4bf7-9144-31cb3fe9487f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7c3a562d-c694-4fbc-9802-4e832cb346c4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d672ecc4-bb75-42bc-a667-c7f65997951d"
+            }
+          },
+          {
+            "frame": 0.43333333333333335,
+            "value": {
+              "__uuid__": "9e855d1c-b40c-4bac-bf19-c825e208c106"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "95732a3c-2ae2-443a-9892-1cfe615f0e22"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "cfffd594-d6ad-45e6-ba32-8fb1dd2795e0"
+            }
+          },
+          {
+            "frame": 0.7666666666666667,
+            "value": {
+              "__uuid__": "dc996a79-0a21-44d3-a1c1-f37c5daa5719"
+            }
+          },
+          {
+            "frame": 0.8666666666666667,
+            "value": {
+              "__uuid__": "f266ce0d-a0a7-420e-8e10-7072587c2e54"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

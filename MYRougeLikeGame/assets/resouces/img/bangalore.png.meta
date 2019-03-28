@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "79349645-135b-45eb-81c4-705b614edb26",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "bangalore": {
+      "ver": "1.0.3",
+      "uuid": "94f24707-377f-4e4f-84bc-0df6566a78c2",
+      "rawTextureUuid": "79349645-135b-45eb-81c4-705b614edb26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 26,
+      "trimY": 17,
+      "width": 61,
+      "height": 79,
+      "rawWidth": 113,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

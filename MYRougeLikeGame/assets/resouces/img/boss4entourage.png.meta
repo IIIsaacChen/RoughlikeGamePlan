@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7a40e95e-1601-4f55-847d-0cc47712effe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "boss4entourage": {
+      "ver": "1.0.3",
+      "uuid": "b8076755-017e-47d0-835b-29b248a675bf",
+      "rawTextureUuid": "7a40e95e-1601-4f55-847d-0cc47712effe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -93,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 48,
+      "rawWidth": 248,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

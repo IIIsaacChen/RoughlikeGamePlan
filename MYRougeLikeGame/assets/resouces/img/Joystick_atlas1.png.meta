@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5fb95129-e498-4d14-b3f5-cd094d0f280c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Joystick_atlas1": {
+      "ver": "1.0.3",
+      "uuid": "758959ce-34dd-4237-9446-e6a0f5a3e40c",
+      "rawTextureUuid": "5fb95129-e498-4d14-b3f5-cd094d0f280c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 8,
+      "width": 76,
+      "height": 75,
+      "rawWidth": 80,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

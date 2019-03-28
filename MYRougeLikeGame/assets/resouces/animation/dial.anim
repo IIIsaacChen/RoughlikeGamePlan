@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dial",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 30
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 60
+        },
+        {
+          "frame": 0.1,
+          "value": 80
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": 120
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 150
+        },
+        {
+          "frame": 0.2,
+          "value": 180
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 210
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 240
+        },
+        {
+          "frame": 0.3,
+          "value": 270
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 300
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": 330
+        }
+      ]
+    }
+  },
+  "events": []
+}
